@@ -92,7 +92,7 @@ This project focuses on analyzing customer behaviour to understand purchasing pa
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Customer_Behaviour_Dashboard](customer_behaviour_dashboard.png)
 
 ---
 
