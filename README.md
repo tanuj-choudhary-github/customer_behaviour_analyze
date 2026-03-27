@@ -98,10 +98,15 @@ This project focuses on analyzing customer behaviour to understand purchasing pa
 
 ## 📂 Project Files
 
-* `notebook.ipynb` → Python analysis
-* `analysis_queries.sql` → SQL queries
-* `dashboard.pbix` → Power BI dashboard
-* `dashboard.png` → Dashboard screenshot
+- 📒 [Python File](https://github.com/tanuj-choudhary-github/customer_behaviour_analyze/blob/main/Customer_Shooping_Behaviour_Analysis.ipynb)
+- 🗄️ [SQL Queries](https://github.com/tanuj-choudhary-github/customer_behaviour_analyze/blob/main/Customer_Behaviour_sql_data.sql)
+- 📊 [Power BI Dashboard](https://github.com/tanuj-choudhary-github/customer_behaviour_analyze/blob/main/Customer_Behaviour_Dashboard.pbix)
+- 🖼️ [Dashboard Image]()
+
+- https://github.com/tanuj-choudhary-github/customer_behaviour_analyze/blob/main/Customer_Behaviour_sql_data.sql
+https://github.com/tanuj-choudhary-github/customer_behaviour_analyze/blob/main/Customer_Shooping_Behaviour_Analysis.ipynb
+https://github.com/tanuj-choudhary-github/customer_behaviour_analyze/blob/main/Customer_Behaviour_Dashboard.pbix
+https://github.com/tanuj-choudhary-github/customer_behaviour_analyze/blob/main/customer_shopping_behavior.csv
 
 ---
 
